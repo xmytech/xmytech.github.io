@@ -1,5 +1,5 @@
-##记录我的想法
-*个人主页*
+##github pages
+
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 个人主页
