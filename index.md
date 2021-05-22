@@ -1,6 +1,10 @@
 # 你来晚了，有机体
-_随便看看吧_
+_随便看看吧_ 
 
+**它以月份为索引不定期更新，并且没有导航栏**
+
+**倒并不是因为我懒啊，没有那些花里胡哨的东西，你才更可能发现我想表达的内容的本质**
+# 5月
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 个人主页
