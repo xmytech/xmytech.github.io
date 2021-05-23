@@ -13,7 +13,7 @@ _随便看看吧_
 ## 23日
 **<font size=32>爱，死亡与什么</font>**
 
-**<font face='微软雅黑' size=10>看了电影《情书》</font>**
+**<font face='微软雅黑' size=6>看了电影《情书》</font>**
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 个人主页
