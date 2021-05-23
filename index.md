@@ -11,7 +11,7 @@ _随便看看吧_
 
 # 5月  2021年
 ## 23日
-<font size=32> 爱，死亡与什么 </font>
+<font size=32>**爱，死亡与什么**</font>
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 个人主页
