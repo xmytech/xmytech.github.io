@@ -14,11 +14,11 @@ _随便看看吧_
 **<font size=32>爱，死亡与什么</font>**
 
 **<font face='微软雅黑' size=5>看了电影《情书》</font>**
-## 25日
+## <font color=green>25日</font>
 **<font size=5>今天想了想硬件的解决方案，就决定用oldx的，佐以天穹的调参</font>**
 
 # 6月   2021年
-## 5日
+## <font color=green>5日</font>
 **<font size=5 >深入下去 不浅尝辄止 这才是唯一的出路</font>**
 
 ## **<font color=green>13日</font>**
