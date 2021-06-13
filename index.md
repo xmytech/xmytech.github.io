@@ -30,7 +30,7 @@ ________
 **<font size=5>人类总是“在历史之中”并且亲手创造历史,明乎此,我们就不能向相对主义或犬儒主义投降,放弃理解世界的一切希望。“因此,正相反,人经由确定他在世界中及做选择中的位置来创造自我,由此我们可以确证人的力量。只有如此,个体才能够通过决定的绝对性来克服相对性,也只有如此他才能拥有历史一一带在身上,进而成为自己的历史。</font>**
 
 
-You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div style='none'>You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
 个人主页
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
