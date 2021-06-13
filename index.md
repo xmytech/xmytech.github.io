@@ -7,7 +7,7 @@ _随便看看吧_
 
 **这是笔者的邮箱 _xmyofficial@gmail.com_**
 
-**你可以通过它与我取得联系**
+**你可以通过它与我取得联系，Alright?**
 
 # 5月  2021年
 ## <font color=green>23日</font>
