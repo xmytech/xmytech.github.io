@@ -13,6 +13,7 @@ _随便看看吧_
 **<font size=32 color=green>Contents</font>**
 
 **[2021 5](# 5月  2021年)**
+**[2021 6](# 6月  2021年)**
 
 # 5月  2021年
 ## <font color=green>23日</font>
@@ -24,7 +25,6 @@ _随便看看吧_
 
 ________
 
-[TOC]
 
 # 6月   2021年
 ## <font color=green>5日</font>
