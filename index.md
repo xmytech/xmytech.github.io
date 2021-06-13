@@ -10,7 +10,7 @@ _随便看看吧_
 **你可以通过它与我取得联系**
 
 # 5月  2021年
-## 23日
+## <font color=green>23日</font>
 **<font size=32>爱，死亡与什么</font>**
 
 **<font face='微软雅黑' size=5>看了电影《情书》</font>**
@@ -19,7 +19,7 @@ _随便看看吧_
 
 # 6月   2021年
 ## 5日
-**<font size=5 >**深入下去 不浅尝辄止 这才是唯一的出路**</font>**
+**<font size=5 >深入下去 不浅尝辄止 这才是唯一的出路</font>**
 
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
