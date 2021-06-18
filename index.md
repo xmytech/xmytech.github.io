@@ -45,7 +45,7 @@ ________
 
 **<font size=5>明天得看固体物理了，时不我待</font>**
 
-## **<font color=green>18日</font> **
+## **<font color=green>18日</font>**
 
 **<font size=5 >They are not only highly intellectual but also romantic at the core, believing in truth and noble causes bigger than themselves</font>**
 
