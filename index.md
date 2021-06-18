@@ -45,6 +45,11 @@ ________
 
 **<font size=5>明天得看固体物理了，时不我待</font>**
 
+## **<font color=green>18日</font>**
+
+**<font size=5 >They are not only highly intellectual but also romantic at the core, believing in truth and noble causes bigger than themselves</font>**
+
+**<font size=5 >内核浪漫，智识过人，我想成为这样的人</font>**
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
 个人主页
