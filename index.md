@@ -51,6 +51,8 @@ ________
 
 **<font size=5 >内核浪漫，智识过人，我想成为这样的人</font>**
 
+**<font size=5 >放弃了oldx的RGT6方案而选用性能较差的TI的TMC，第一是教程不够完善，没有技术支持;第二是比赛有规定，建议你用TI的而不是ST;第三是RGT6最近价格涨麻了，在它没成为理财产品之前，TMC怎么都不会成为首选</font>**
+
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
 个人主页
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
