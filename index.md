@@ -45,7 +45,7 @@ ________
 
 **<font size=5>明天得看固体物理了，时不我待</font>**
 
-## ** <font color=green>18日<font> **
+## **<font color=green>18日</font> **
 
 **<font size=5 >They are not only highly intellectual but also romantic at the core, believing in truth and noble causes bigger than themselves</font>**
 
@@ -53,7 +53,7 @@ ________
 
 **<font size=5 >放弃了oldx的RGT6方案而选用性能较差的TI的TMC，第一是教程不够完善，没有技术支持;第二是比赛有规定，建议你用TI的而不是ST;第三是RGT6最近价格涨麻了，在它没成为理财产品之前，TMC不会成为首选</font>**
 
-## **<font color=green>19日<font>**
+## **<font color=green>19日</font>**
 
 **<font size=5 >我不觉得专业不对口有啥，反倒是很羡慕拥有多学科教育背景的大佬，就是从本科到硕士到博士再到博士后读的专业都不一样，所学的专业还都是交叉学科</font>**
 
