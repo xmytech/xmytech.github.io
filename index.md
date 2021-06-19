@@ -10,7 +10,7 @@ _**随便看看吧**_
 **你可以通过它与我取得联系，Alright?**
 
 ***
-**<font size=32 color=green>Contents                   这是目录，点它可以跳转</font>**
+**<font size=32 color=green>Contents                   目录</font>**
 
 **- [5  2021](#5月--2021年)**
 
