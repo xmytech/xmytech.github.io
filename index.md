@@ -60,6 +60,11 @@ ________
 
 **<font size=5 >北斗三号卫星系统总设计师林宝军本科学汽车发动机专业，硕士学的计算机，博士学的控制和软件，直到博士后才学了高能天体物理专业。毕业后，他做了15年神舟，又做了10年北斗，经历了斜坡式的人生轨迹。“不要等所有的知识学会了再去做，大学只是告诉了你必备的基础知识和方法,要在干的过程中来学,来掌握,来探索”</font>**
 
+## **<font color=green>20日</font>**
+
+**<font size=5 >通过使用CsnimsdsnevIc-20计算机, Linus 把键盘玩得很顺,然后 Linus 开始阅读电脑操作学册,并学会将里出的示范程序输入进去，手册里有一些简单游戏的示范程序,如屏将上会出现个人横穿走过的图像,还可以稍作修改,以显出各种不同的背景颜色,这些程序都大大地激发了 Linus 的兴趣。然 Linus 开始自己写租序。 Linus 编写的第一个程序与其他人编的没什么不同,屏幕上显示出一行又一行的HELL0,直到厌烦而中止它。这是 Linus 的第一步,也是许多人的最后一步。但是,兴趣让 Linus 迈出了第二步和后续的无数多步。 </font>**
+
+
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
 个人主页
