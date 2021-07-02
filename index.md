@@ -16,6 +16,8 @@ _**随便看看吧**_
 
 **- [6  2021](#6月--2021年)**
 
+**- [7  2021](#7月--2021年)**
+
 ----
 
 # 5月  2021年
@@ -64,6 +66,9 @@ ________
 
 **<font size=5 >通过使用CsnimsdsnevIc-20计算机, Linus 把键盘玩得很顺,然后 Linus 开始阅读电脑操作学册,并学会将里出的示范程序输入进去，手册里有一些简单游戏的示范程序,如屏将上会出现个人横穿走过的图像,还可以稍作修改,以显出各种不同的背景颜色,这些程序都大大地激发了 Linus 的兴趣。然 Linus 开始自己写租序。 Linus 编写的第一个程序与其他人编的没什么不同,屏幕上显示出一行又一行的HELL0,直到厌烦而中止它。这是 Linus 的第一步,也是许多人的最后一步。但是,兴趣让 Linus 迈出了第二步和后续的无数多步。 </font>**
 
+________
+
+# 7月  2021年
 
 
 You can use the [editor on GitHub](https://github.com/xmytech/xmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
