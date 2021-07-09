@@ -3,6 +3,8 @@ _**随便看看吧**_
 
 **它以月份为索引不定期更新，并且没有导航栏**
 
+**It is indexed from month to month and does not have a navigation bar**
+
 **倒并不是因为我懒啊，而是纯粹就是想把它作为一个文字的载体，而不是流于形式**
 
 **这是笔者的邮箱 _xmyofficial@gmail.com_**
